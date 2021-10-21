@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Typescript, Prisma, Graphql**
 
-- 💬 Ask me about **react, node.js**
+- 💬 Ask me about **React, Node.js**
 
 - 📫 How to reach me **limafmarcus@gmail.com**
 
