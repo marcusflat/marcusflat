@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Typescript, Prisma, Graphql**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React, Node.js**
 
