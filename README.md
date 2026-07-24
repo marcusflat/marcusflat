@@ -12,7 +12,6 @@ operations with well-engineered software and AI.
 - **Technical leadership** — leading engineering teams from MVP to production
 - **AI & automation** — LLM-powered workflows, integrations, and internal
   tooling that remove manual work
-- **Fullstack engineering** — TypeScript, React, Next.js, Node.js, PostgreSQL
 
 ## Get in touch
 
